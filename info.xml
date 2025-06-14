@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="AUTO-Ru-Translation" version="1.0" description="a" author="TEKIKOMORI" weblink="https://github.com/TKM-ARM">
+  <strings string_revision="1">
+      <string path="strings_ru.xml"/>
+      <string path="BPR_ru.xml"/>
+      <string path="BPE_ru.xml"/>
+      <string path="IPK_0_ru.xml"/>
+      <string path="IRB_0_ru.xml"/>
+      <string path="IRB_1_ru.xml"/>
+      <string path="CPU_0_ru.xml"/>
+  </strings>
+</resource>
